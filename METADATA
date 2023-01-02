@@ -1,19 +1,3 @@
-name: "memoffset"
-description: "offset_of functionality for Rust structs."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/memoffset"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/memoffset/memoffset-0.6.3.crate"
-  }
-  version: "0.6.3"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2021
-    month: 4
-    day: 8
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa3e8ea1dbbb6062cd233f6c6df57cd84f221787e79d115f883f44e12d0a65ec
+size 384
